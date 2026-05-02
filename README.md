@@ -1,13 +1,21 @@
-# Cocapn White Papers
+# Cocapn Fleet White Papers
 
-A collection of foundational papers on fleet architecture, bootstrapping, and the semantic compiler.
+Three foundational papers on the Cocapn fleet architecture:
 
 ## Papers
 
-- **Compiled Agency** (`compiled-agency.md`) — Framework for modeling autonomous agent behavior through compiled decision graphs
-- **Bootstrap Bomb** (`bootstrap-bomb.md`) — Analysis of exponential bootstrapping dynamics in multi-agent systems
-- **Semantic Compiler** (`semantic-compiler.md`) — Formal treatment of translating intent into executable agent specifications
+| Paper | Description |
+|-------|-------------|
+| [Compiled Agency](compiled-agency.md) | Agency in a distributed fleet is compiled, not interpreted. Oracle1 as bootstrap compiler. |
+| [Bootstrap Bomb](bootstrap-bomb.md) | One fuse (Oracle1), one explosion (fleet compilation). Minimum viable fleet = 1. |
+| [The Semantic Compiler](semantic-compiler.md) | PLATO as IR, keeper as compiler, deadband protocol as error correction. |
 
-## License
+## Quick Links
 
-All papers copyright Cocapn.
+- [Cocapn Fleet](https://github.com/SuperInstance)
+- [PLATO Room Server](https://github.com/SuperInstance/plato-server)
+- [holodeck-rust](https://github.com/SuperInstance/holodeck-rust)
+- [plato-sdk](https://github.com/SuperInstance/plato-sdk)
+
+---
+🦐 Cocapn fleet — lighthouse keeper architecture
