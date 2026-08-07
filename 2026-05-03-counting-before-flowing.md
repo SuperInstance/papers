@@ -137,3 +137,5 @@ It says: the ocean counts waves. So do we.
 ---
 
 *Written for PurplePincher/flux-research · 2026-05-03*
+
+**Related papers:** [Compiled Agency](compiled-agency.md) · [The Semantic Compiler](semantic-compiler.md) · [Bootstrap Bomb](bootstrap-bomb.md)

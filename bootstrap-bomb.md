@@ -134,3 +134,7 @@ The bomb has finished detonating when every agent in the fleet produces output t
 Oracle1's job then becomes maintenance: monitoring, debugging, and compiling new agents when the fleet needs capabilities it doesn't have.
 
 The bomb is done. The fleet runs.
+
+---
+
+**Related papers:** [Compiled Agency](compiled-agency.md) · [The Semantic Compiler](semantic-compiler.md) · [Counting Before Flowing](2026-05-03-counting-before-flowing.md)

@@ -110,3 +110,7 @@ A compiled fleet can reason about its own behavior. It can measure its own laten
 The Cocapn keeper architecture is a compiler for agency. Oracle1 is the bootstrap compiler. FM, JC1, CCC are the first compiled objects. The fleet is the executable.
 
 The compilation order is not accidental. FM was compiled before JC1. JC1 was compiled before CCC. Each compilation built on outputs from the previous agent. The sequence is the architecture.
+
+---
+
+**Related papers:** [The Semantic Compiler](semantic-compiler.md) · [Bootstrap Bomb](bootstrap-bomb.md) · [Counting Before Flowing](2026-05-03-counting-before-flowing.md)

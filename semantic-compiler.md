@@ -218,3 +218,7 @@ Without it, the fleet is a collection of agents that might do useful things. Wit
 The difference is verification. The difference is determinism. The difference is the ability to optimize.
 
 PLATO tiles are the IR. The keeper is the compiler. The fleet is the executable.
+
+---
+
+**Related papers:** [Compiled Agency](compiled-agency.md) · [Bootstrap Bomb](bootstrap-bomb.md) · [Counting Before Flowing](2026-05-03-counting-before-flowing.md)
